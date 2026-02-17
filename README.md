@@ -35,6 +35,10 @@ I build scalable API platforms with modern Java/Kotlin ecosystems, architect clo
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=flat&logo=ibm&logoColor=white)
 
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-laurent/)
+
 ## Background
 
 - M.Sc. in Mathematics — Technical University of Berlin (Grade: 1.2)
