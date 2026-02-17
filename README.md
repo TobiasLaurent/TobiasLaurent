@@ -41,7 +41,7 @@ I build scalable API platforms with modern Java/Kotlin ecosystems, architect clo
 
 ## Background
 
-- M.Sc. in Mathematics — Technical University of Berlin (Grade: 1.2)
+- M.Sc. in Mathematics — Technical University of Berlin
 - 7+ years in enterprise software consulting, primarily in the insurance domain
 - Certified: Oracle Java SE 8 Programmer I, Professional Scrum Master I
 - Languages: German (native), English (proficient), French (conversational)
