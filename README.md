@@ -15,6 +15,8 @@ I build scalable API platforms with modern Java/Kotlin ecosystems, architect clo
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -42,6 +44,7 @@ I build scalable API platforms with modern Java/Kotlin ecosystems, architect clo
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=flat&logo=ibm&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 
 **AI**
 
